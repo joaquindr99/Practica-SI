@@ -1,0 +1,126 @@
+Puntos generación 1: 0 (0%) || Mejor: 0 (0%)
+Puntos generación 2: 23 (0%) || Mejor: 14 (3%)
+Puntos generación 3: 153 (3%) || Mejor: 24 (6%)
+Puntos generación 4: 175 (4%) || Mejor: 23 (5%)
+Puntos generación 5: 204 (5%) || Mejor: 37 (9%)
+Puntos generación 6: 352 (8%) || Mejor: 99 (24%)
+Puntos generación 7: 379 (9%) || Mejor: 96 (24%)
+Puntos generación 8: 257 (6%) || Mejor: 45 (11%)
+Puntos generación 9: 274 (6%) || Mejor: 52 (13%)
+Puntos generación 10: 362 (9%) || Mejor: 54 (13%)
+Puntos generación 11: 431 (10%) || Mejor: 70 (17%)
+Puntos generación 12: 567 (14%) || Mejor: 111 (27%)
+Puntos generación 13: 949 (23%) || Mejor: 117 (29%)
+Puntos generación 14: 1072 (26%) || Mejor: 124 (43%)
+Puntos generación 15: 1184 (29%) || Mejor: 153 (39%)
+Puntos generación 16: 950 (28%) || Mejor: 0 (0%)
+Puntos generación 17: 1495 (33%) || Mejor: 213 (53%)
+Puntos generación 18: 1347 (33%) || Mejor: 166 (41%)
+Puntos generación 19: 1725 (43%) || Mejor: 240 (60%)
+Puntos generación 20: 1760 (38%) || Mejor: 240 (60%)
+Puntos generación 21: 1684 (42%) || Mejor: 191 (47%)
+Puntos generación 22: 1461 (42%) || Mejor: 211 (56%)
+Puntos generación 23: 1554 (38%) || Mejor: 230 (57%)
+Puntos generación 24: 1527 (38%) || Mejor: 201 (50%)
+Puntos generación 25: 1708 (42%) || Mejor: 201 (50%)
+Puntos generación 26: 1667 (41%) || Mejor: 203 (55%)
+Puntos generación 27: 1891 (42%) || Mejor: 225 (56%)
+Puntos generación 28: 1757 (43%) || Mejor: 223 (55%)
+Puntos generación 29: 1781 (44%) || Mejor: 208 (52%)
+Puntos generación 30: 1512 (37%) || Mejor: 189 (47%)
+Puntos generación 31: 1589 (39%) || Mejor: 208 (52%)
+Puntos generación 32: 1660 (41%) || Mejor: 198 (49%)
+Puntos generación 33: 1571 (39%) || Mejor: 206 (51%)
+Puntos generación 34: 1344 (33%) || Mejor: 194 (48%)
+Puntos generación 35: 1592 (39%) || Mejor: 194 (48%)
+Puntos generación 36: 1821 (45%) || Mejor: 215 (53%)
+Puntos generación 37: 1746 (43%) || Mejor: 223 (55%)
+Puntos generación 38: 1963 (49%) || Mejor: 232 (58%)
+Puntos generación 39: 1862 (46%) || Mejor: 220 (55%)
+Puntos generación 40: 1704 (42%) || Mejor: 201 (50%)
+Puntos generación 41: 1893 (47%) || Mejor: 235 (58%)
+Puntos generación 42: 1877 (46%) || Mejor: 218 (54%)
+Puntos generación 43: 1809 (45%) || Mejor: 216 (54%)
+Puntos generación 44: 1774 (44%) || Mejor: 226 (56%)
+Puntos generación 45: 1803 (45%) || Mejor: 242 (60%)
+Puntos generación 46: 1450 (36%) || Mejor: 181 (45%)
+Puntos generación 47: 1382 (34%) || Mejor: 158 (39%)
+Puntos generación 48: 1306 (32%) || Mejor: 146 (36%)
+Puntos generación 49: 1358 (33%) || Mejor: 154 (38%)
+Puntos generación 50: 1483 (37%) || Mejor: 195 (48%)
+Puntos generación 51: 1408 (35%) || Mejor: 159 (39%)
+Puntos generación 52: 1404 (35%) || Mejor: 159 (39%)
+Puntos generación 53: 1412 (35%) || Mejor: 168 (42%)
+Puntos generación 54: 1479 (36%) || Mejor: 212 (53%)
+Puntos generación 55: 1795 (44%) || Mejor: 228 (57%)
+Puntos generación 56: 2045 (51%) || Mejor: 234 (58%)
+Puntos generación 57: 2115 (52%) || Mejor: 233 (58%)
+Puntos generación 58: 2265 (56%) || Mejor: 288 (72%)
+Puntos generación 59: 2428 (60%) || Mejor: 291 (72%)
+Puntos generación 60: 2604 (65%) || Mejor: 323 (80%)
+Puntos generación 61: 2568 (64%) || Mejor: 310 (77%)
+Puntos generación 62: 2553 (63%) || Mejor: 273 (68%)
+Puntos generación 63: 2480 (62%) || Mejor: 277 (69%)
+Puntos generación 64: 2419 (60%) || Mejor: 274 (68%)
+Puntos generación 65: 2483 (62%) || Mejor: 291 (72%)
+Puntos generación 66: 2349 (58%) || Mejor: 274 (68%)
+Puntos generación 67: 2371 (59%) || Mejor: 259 (64%)
+Puntos generación 68: 2379 (59%) || Mejor: 249 (68%)
+Puntos generación 69: 1966 (55%) || Mejor: 273 (68%)
+Puntos generación 70: 1987 (36%) || Mejor: 275 (68%)
+Puntos generación 71: 2283 (50%) || Mejor: 272 (68%)
+Puntos generación 72: 2413 (60%) || Mejor: 299 (74%)
+Puntos generación 73: 1664 (41%) || Mejor: 311 (77%)
+Puntos generación 74: 2295 (57%) || Mejor: 333 (83%)
+Puntos generación 75: 2615 (65%) || Mejor: 324 (81%)
+Puntos generación 76: 3101 (77%) || Mejor: 348 (87%)
+Puntos generación 77: 3140 (78%) || Mejor: 348 (87%)
+Puntos generación 78: 3164 (79%) || Mejor: 351 (87%)
+Puntos generación 79: 1967 (49%) || Mejor: 348 (87%)
+Puntos generación 80: 928 (23%) || Mejor: 321 (80%)
+Puntos generación 81: 3077 (76%) || Mejor: 328 (82%)
+Puntos generación 82: 2796 (69%) || Mejor: 323 (80%)
+Puntos generación 83: 3096 (77%) || Mejor: 346 (86%)
+Puntos generación 84: 3036 (75%) || Mejor: 344 (86%)
+Puntos generación 85: 2404 (60%) || Mejor: 318 (79%)
+Puntos generación 86: 3055 (76%) || Mejor: 323 (80%)
+Puntos generación 87: 2772 (62%) || Mejor: 333 (83%)
+Puntos generación 88: 2997 (74%) || Mejor: 318 (79%)
+Puntos generación 89: 3084 (77%) || Mejor: 327 (81%)
+Puntos generación 90: 3145 (78%) || Mejor: 329 (82%)
+Puntos generación 91: 2538 (63%) || Mejor: 341 (85%)
+Puntos generación 92: 3198 (79%) || Mejor: 341 (85%)
+Puntos generación 93: 3034 (75%) || Mejor: 334 (83%)
+Puntos generación 94: 2700 (67%) || Mejor: 329 (82%)
+Puntos generación 95: 2990 (74%) || Mejor: 322 (80%)
+Puntos generación 96: 2386 (59%) || Mejor: 313 (78%)
+Puntos generación 97: 2695 (67%) || Mejor: 355 (88%)
+Puntos generación 98: 2125 (53%) || Mejor: 313 (78%)
+Puntos generación 99: 1497 (37%) || Mejor: 305 (76%)
+Puntos generación 100: 2383 (59%) || Mejor: 313 (78%)
+Puntos generación 101: 2465 (61%) || Mejor: 337 (84%)
+Col: [b] valida: true , puntos: 355 , [0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0] , [26,68,86,33,44,40,16,35,72,66,77,27,29,30,45,12,59,51,17,43,71,5,82,37,15,57,49,3,41,21,39,7,23,1,13,48,85,83,54,79,19,34,14,6,46,58,0,76,60,22,20,55,70,75,61,81,4,42,74,24,53,52,47,62,18,84,78,64,28,2,67,65,80,25,56,38,32,36,63,11,8,9,10,73,50,31,87,69]
+
+Col: valida: true , puntos: 355 , [0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0] , [26,68,86,33,44,40,16,35,72,66,77,27,29,30,45,12,59,51,17,43,71,5,82,37,15,57,49,3,41,21,39,7,23,1,13,48,85,83,54,79,19,34,14,6,46,58,0,76,60,22,20,55,70,75,61,81,4,42,74,24,53,52,47,62,18,84,78,64,28,2,67,65,80,25,56,38,32,36,63,11,8,9,10,73,50,31,87,69]
++--------------------+
+|00000000000001111111|
+|00000000000001111111|
+|11111111111111100000|
+|11111111111111111111|
+|11111111111100011111|
+|11111111111111111111|
+|11111111111111111111|
+|00111111111111111111|
+|00111111111111111111|
+|01111011111111111111|
+|01111011111111111111|
+|11111111111011111111|
+|11111111111111111111|
+|11111111111111111111|
+|11111111111111111111|
+|11111111111111111111|
+|11111111111111111111|
+|11111111111111111111|
+|01111111011111111111|
+|11111111111111111111|
++--------------------+

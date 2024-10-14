@@ -1,0 +1,48 @@
+Mochila mochila = new Mochila(10,10);
+        mochila.mostrar();
+
+        Colocacion colocacion;
+
+        Item p1 = new Item(1,1);
+        Item p2 = new Item(2,2);
+        Item p3 = new Item(1,2);
+        Item p4 = new Item(3,1);
+        Item p5 = new Item(2,2);
+
+        Item q1 = new Item(4,2);
+        Item q2 = new Item(3,3);
+        Item q3 = new Item(4,3);
+        Item q4 = new Item(5,1);
+        Item q5 = new Item(5,1);
+
+        List<Item> items = new ArrayList<Item>();
+
+        items.add(p1);
+        items.add(p2);
+        items.add(p3);
+        items.add(p4);
+        items.add(p5);
+
+        items.add(q1);
+        items.add(q2);
+        items.add(q3);
+        items.add(q4);
+        items.add(q5);
+
+        items.add(q1);
+        items.add(q2);
+        items.add(q3);
+        items.add(q4);
+        items.add(q5);
+
+        items.add(q1);
+        items.add(q2);
+        items.add(q3);
+        items.add(q4);
+        items.add(q5);
+
+        items.add(p1);
+        items.add(q5);
+        items.add(p2);
+        items.add(q4);
+        items.add(p3);
